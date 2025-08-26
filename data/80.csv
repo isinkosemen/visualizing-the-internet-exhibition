@@ -1,0 +1,18 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+5,154.126.200.245,19.44633333333333,Johannesburg,Gauteng,ZA,-26.20227,28.04363,AS327750,JENNY INTERNET (PTY) LTD
+6,154.126.208.94,19.520333333333333,Johannesburg,Gauteng,ZA,-26.20227,28.04363,AS327750,JENNY INTERNET (PTY) LTD
+7,154.126.208.93,19.238666666666667,Johannesburg,Gauteng,ZA,-26.20227,28.04363,AS327750,JENNY INTERNET (PTY) LTD
+8,154.126.200.14,21.98266666666667,Johannesburg,Gauteng,ZA,-26.20227,28.04363,AS327750,JENNY INTERNET (PTY) LTD
+9,154.126.223.57,18.953,Johannesburg,Gauteng,ZA,-26.20227,28.04363,AS327750,JENNY INTERNET (PTY) LTD
+10,197.157.67.221,22.794666666666668,Johannesburg,Gauteng,ZA,-26.20227,28.04363,AS37271,Workonline Communications(Pty) Ltd
+14,41.78.188.61,203.23166666666668,Marseille,Provence-Alpes-Côte d'Azur,FR,43.29695,5.38107,AS37271,Workonline Communications(Pty) Ltd
+15,62.157.249.206,203.84,Darmstadt,Hesse,DE,49.8611,8.6373,AS3320,Deutsche Telekom AG
+16,217.5.102.78,220.50566666666668,Düsseldorf,North Rhine-Westphalia,DE,51.22172,6.77616,AS3320,Deutsche Telekom AG
+17,193.159.165.115,205.64066666666668,Essen,North Rhine-Westphalia,DE,51.45657,7.01228,AS3320,Deutsche Telekom AG
+18,188.1.145.209,224.0745,Köln,North Rhine-Westphalia,DE,50.93333,6.95,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+19,188.1.144.74,212.946,Lippstadt,North Rhine-Westphalia,DE,51.67369,8.34482,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+20,188.1.243.30,215.697,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+21,141.76.0.31,234.524,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+22,141.30.1.30,233.72299999999998,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+23,141.30.1.63,212.81133333333332,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+24,141.76.14.10,215.13866666666664,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

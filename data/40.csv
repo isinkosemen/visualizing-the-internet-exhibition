@@ -1,0 +1,10 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+2,194.149.162.246,8.354666666666667,Strasbourg,Grand Est,FR,48.58392,7.74553,,
+4,80.81.192.222,22.672,Frankfurt am Main,Hesse,DE,50.11552,8.68417,,
+5,188.1.145.198,27.798999999999996,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+6,188.1.144.74,32.302,Lippstadt,North Rhine-Westphalia,DE,51.67369,8.34482,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+7,188.1.243.30,35.452333333333335,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+8,141.76.0.31,34.655,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+9,141.30.1.22,35.237,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+10,141.30.1.53,35.41,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+11,141.76.14.10,35.295,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

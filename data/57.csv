@@ -1,0 +1,10 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+3,195.239.45.97,2.5603333333333333,Krasnodar,Krasnodar Krai,RU,45.04484,38.97603,AS3216,"PJSC ""Vimpelcom"""
+4,79.104.225.2,68.00666666666667,Moscow,Moscow,RU,55.7522,37.6156,,
+5,80.81.192.222,68.0325,Frankfurt am Main,Hesse,DE,50.11552,8.68417,,
+6,188.1.145.198,72.56333333333333,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+8,188.1.243.30,81.006,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+9,141.76.0.31,80.88366666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+10,141.30.1.22,80.86200000000001,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+11,141.30.1.53,80.77166666666666,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+12,141.76.14.10,80.86166666666666,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

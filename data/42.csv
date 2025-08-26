@@ -1,0 +1,12 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+1,185.211.231.161,0.6153333333333334,Bishkek,Bishkek,KG,42.87,74.59,AS61399,KG-IX LLC
+3,185.20.123.136,0.9613333333333333,Bishkek,Bishkek,KG,42.87,74.59,AS61010,IPNET OOO
+4,185.20.122.136,1.2779999999999998,Bishkek,Bishkek,KG,42.87,74.59,AS61010,IPNET OOO
+5,194.186.168.65,55.43000000000001,Moscow,Moscow,RU,55.75222,37.61556,AS3216,"PJSC ""Vimpelcom"""
+6,79.104.225.34,93.36200000000001,Moscow,Moscow,RU,55.7522,37.6156,,
+9,188.1.144.74,90.282,Lippstadt,North Rhine-Westphalia,DE,51.67369,8.34482,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+10,188.1.243.30,93.80966666666666,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+11,141.76.0.31,91.21733333333333,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+12,141.30.1.22,100.71333333333332,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+13,141.30.1.55,99.50566666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+14,141.76.14.10,99.80966666666666,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

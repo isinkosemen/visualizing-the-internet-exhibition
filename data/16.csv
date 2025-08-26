@@ -1,0 +1,13 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+3,32.217.169.1,7.559333333333334,Stratford,Connecticut,US,41.18454,-73.13317,AS46690,"Southern New England Telephone Company and SNET America, Inc."
+4,172.76.21.29,8.274,Wallingford,Connecticut,US,41.45704,-72.82316,AS5650,"Frontier Communications of America, Inc."
+5,74.40.1.61,14.607666666666667,Ashburn,Virginia,US,39.04372,-77.48749,AS5650,"Frontier Communications of America, Inc."
+6,74.41.143.197,14.303333333333333,Ashburn,Virginia,US,39.04372,-77.48749,AS5650,"Frontier Communications of America, Inc."
+7,4.37.99.245,20.772666666666666,Washington,District of Columbia,US,38.89511,-77.03637,AS3356,"Level 3 Parent, LLC"
+8,171.75.10.131,106.29899999999999,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS3356,"Level 3 Parent, LLC"
+11,188.1.145.118,110.346,Erlangen,Bavaria,DE,49.59099,11.00783,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+12,188.1.243.34,113.20433333333334,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+13,141.76.0.23,112.98833333333334,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+14,141.30.1.30,113.96233333333333,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+15,141.30.1.61,113.15433333333334,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+16,141.76.14.10,179.28133333333335,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

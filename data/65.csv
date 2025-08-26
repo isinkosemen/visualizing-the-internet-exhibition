@@ -1,0 +1,18 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+2,139.194.62.1,32.1,Jakarta,Jakarta,ID,-6.21462,106.84513,AS23700,Linknet-Fastnet ASN
+3,202.73.96.74,15.112,Jakarta,Jakarta,ID,-6.21462,106.84513,AS23700,Linknet-Fastnet ASN
+4,202.73.96.73,14.6975,Jakarta,Jakarta,ID,-6.21462,106.84513,AS23700,Linknet-Fastnet ASN
+5,111.95.244.205,28.93466666666667,Batam,Riau,ID,1.14937,104.02491,AS7632,Linknet-Exchange ASN
+6,111.95.246.26,29.9075,Batam,Riau,ID,1.14937,104.02491,AS7632,Linknet-Exchange ASN
+7,213.248.78.189,27.801000000000002,Singapore,,SG,1.28967,103.85007,AS1299,Arelion Sweden AB
+8,62.115.136.198,31.183,Singapore,,SG,1.28967,103.85007,AS1299,Arelion Sweden AB
+9,62.115.141.218,168.5773333333333,Marseille,Provence-Alpes-Côte d'Azur,FR,43.29695,5.38107,AS1299,Arelion Sweden AB
+10,62.115.136.250,181.79599999999996,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS1299,Arelion Sweden AB
+11,62.115.127.90,189.52800000000002,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+12,62.115.132.109,188.625,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+13,213.248.100.167,190.525,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+15,188.1.243.30,295.955,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+16,141.76.0.31,197.10533333333333,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+17,141.30.1.30,200.56566666666666,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+18,141.30.1.63,203.97133333333332,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+19,141.76.14.10,199.25833333333333,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

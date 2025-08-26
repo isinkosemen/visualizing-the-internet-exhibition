@@ -1,0 +1,12 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+1,138.117.32.9,1.5016666666666667,Feira de Santana,Bahia,BR,-12.26667,-38.96667,AS264479,Turbozone Internet
+4,200.25.37.46,27.893,Fortaleza,Ceará,BR,-3.71722,-38.54306,AS7195,EDGEUNO S.A.S
+5,200.25.51.51,29.069333333333333,Buenos Aires,Buenos Aires F.D.,AR,-34.61315,-58.37723,AS7195,EDGEUNO S.A.S
+6,8.243.52.45,27.153333333333336,São Paulo,São Paulo,BR,-23.5475,-46.63611,AS3356,"Level 3 Parent, LLC"
+7,171.75.8.101,195.45466666666667,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS3356,"Level 3 Parent, LLC"
+10,188.1.145.118,212.1903333333333,Erlangen,Bavaria,DE,49.59099,11.00783,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+11,188.1.243.34,207.6303333333333,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+12,141.76.0.21,209.16566666666665,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+13,141.30.1.20,208.48066666666668,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+14,141.30.1.53,214.24099999999999,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+15,141.76.14.10,208.63400000000001,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

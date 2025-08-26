@@ -1,0 +1,18 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+2,119.188.3.93,0.3153333333333333,Qingdao,Shandong,CN,36.06488,120.38042,AS4837,CHINA UNICOM China169 Backbone
+5,119.188.185.197,14.039333333333333,Jinan,Shandong,CN,36.66833,116.99722,AS4837,CHINA UNICOM China169 Backbone
+9,219.158.96.42,208.03033333333335,San Jose,California,US,37.33939,-121.89496,AS4837,CHINA UNICOM China169 Backbone
+11,62.115.139.16,254.8485,San Jose,California,US,37.33939,-121.89496,AS1299,Arelion Sweden AB
+12,62.115.139.105,250.21266666666668,Denver,Colorado,US,39.73915,-104.9847,AS1299,Arelion Sweden AB
+13,62.115.115.77,270.2513333333333,Chicago,Illinois,US,41.85003,-87.65005,AS1299,Arelion Sweden AB
+14,62.115.139.32,312.0185,New York City,New York,US,40.71427,-74.00597,AS1299,Arelion Sweden AB
+15,62.115.139.245,306.5005,London,England,GB,51.50853,-0.12574,AS1299,Arelion Sweden AB
+16,62.115.137.215,314.31600000000003,Amsterdam,North Holland,NL,52.37403,4.88969,AS1299,Arelion Sweden AB
+17,62.115.120.71,330.896,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+18,213.248.100.167,266.955,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+19,188.1.144.225,369.7196666666667,Lippstadt,North Rhine-Westphalia,DE,51.67369,8.34482,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+20,188.1.243.30,373.7293333333333,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+21,141.76.0.31,361.3706666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+22,141.30.1.30,367.18333333333334,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+23,141.30.1.63,366.722,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+24,141.76.14.10,376.2776666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

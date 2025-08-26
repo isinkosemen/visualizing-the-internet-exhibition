@@ -1,0 +1,17 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+3,198.58.198.36,4.9446666666666665,Montréal,Quebec,CA,45.50884,-73.58781,AS1403,EBOX
+4,67.221.48.85,2.5636666666666668,Montréal,Quebec,CA,45.50884,-73.58781,AS1403,EBOX
+5,209.249.45.81,2.5243333333333333,Montréal,Quebec,CA,45.50884,-73.58781,AS6461,Zayo Bandwidth
+6,64.125.22.14,87.41699999999999,Montréal,Quebec,CA,45.50884,-73.58781,AS6461,Zayo Bandwidth
+7,64.125.27.28,87.05533333333334,Newark,New Jersey,US,40.73566,-74.17237,AS6461,Zayo Bandwidth
+9,64.125.29.127,87.71600000000001,Denver,Colorado,US,39.7491,-104.9946,AS6461,Zayo Bandwidth
+10,64.125.24.141,87.24366666666667,Denver,Colorado,US,39.7491,-104.9946,AS6461,Zayo Bandwidth
+11,64.125.29.16,87.344,Amsterdam,North Holland,NL,52.37403,4.88969,AS6461,Zayo Bandwidth
+12,64.125.28.36,87.2,Amsterdam,North Holland,NL,52.37403,4.88969,AS6461,Zayo Bandwidth
+14,64.125.29.57,88.93333333333334,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS6461,Zayo Bandwidth
+16,188.1.145.118,95.277,Erlangen,Bavaria,DE,49.59099,11.00783,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+17,188.1.243.34,98.66966666666667,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+18,141.76.0.23,98.27866666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+19,141.30.1.22,99.81333333333333,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+20,141.30.1.55,191.773,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+21,141.76.14.10,100.73666666666668,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

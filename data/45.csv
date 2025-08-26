@@ -1,0 +1,15 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+3,96.110.204.145,17.98,Atlanta,Georgia,US,33.749,-84.38798,AS7922,"Comcast Cable Communications, LLC"
+4,96.108.1.253,10.605666666666666,Atlanta,Georgia,US,33.749,-84.38798,AS7922,"Comcast Cable Communications, LLC"
+5,68.85.232.1,11.983333333333334,Atlanta,Georgia,US,33.749,-84.38798,AS7922,"Comcast Cable Communications, LLC"
+6,68.86.106.177,14.556,Atlanta,Georgia,US,33.749,-84.38798,AS7922,"Comcast Cable Communications, LLC"
+7,68.85.92.105,11.146,Atlanta,Georgia,US,33.749,-84.38798,AS7922,"Comcast Cable Communications, LLC"
+8,68.85.92.126,13.997333333333335,Atlanta,Georgia,US,33.749,-84.38798,AS7922,"Comcast Cable Communications, LLC"
+9,4.68.38.113,14.288666666666666,Atlanta,Georgia,US,33.749,-84.38798,AS3356,"Level 3 Parent, LLC"
+10,171.75.10.131,112.32166666666666,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS3356,"Level 3 Parent, LLC"
+12,188.1.145.198,117.139,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+14,188.1.243.30,139.14666666666668,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+15,141.76.0.31,125.58466666666668,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+16,141.30.1.22,134.94833333333332,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+17,141.30.1.55,128.83599999999998,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+18,141.76.14.10,132.64966666666666,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

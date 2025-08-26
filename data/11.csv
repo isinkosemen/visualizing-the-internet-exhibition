@@ -1,0 +1,12 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+3,221.120.192.172,19.396,Karachi,Sindh,PK,24.8608,67.0104,AS9557,Paknet Limited Merged into PTCL
+6,62.115.165.16,129.81066666666666,Marseille,Provence-Alpes-Côte d'Azur,FR,43.29695,5.38107,AS1299,Arelion Sweden AB
+7,62.115.124.58,136.65733333333333,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS1299,Arelion Sweden AB
+8,62.115.123.77,143.22633333333332,Trelleborg,Skåne,SE,55.37514,13.15691,AS1299,Arelion Sweden AB
+9,62.115.120.71,248.32033333333334,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+11,188.1.144.225,143.95533333333333,Lippstadt,North Rhine-Westphalia,DE,51.67369,8.34482,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+12,188.1.243.30,147.081,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+13,141.76.0.29,146.811,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+14,141.30.1.20,148.49166666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+15,141.30.1.53,147.01633333333334,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+16,141.76.14.10,148.359,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

@@ -1,0 +1,21 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+1,144.120.68.254,0.40633333333333327,Suva,Central,FJ,-18.13683,178.42531,AS24390,The University of the South Pacific
+2,144.120.3.17,9.793000000000001,Suva,Central,FJ,-18.13683,178.42531,AS24390,The University of the South Pacific
+3,202.158.204.193,10.408,Sydney,New South Wales,AU,-33.86785,151.20732,AS7575,Australian Academic and Research Network (AARNet)
+4,113.197.15.212,45.19866666666667,Sydney,New South Wales,AU,-33.86785,151.20732,AS7575,Australian Academic and Research Network (AARNet)
+5,113.197.15.146,47.0155,Sydney,New South Wales,AU,-33.86785,151.20732,AS7575,Australian Academic and Research Network (AARNet)
+6,113.197.15.233,136.788,Singapore,,SG,1.28967,103.85007,AS7575,Australian Academic and Research Network (AARNet)
+7,138.44.226.7,304.813,Sydney,New South Wales,AU,-33.86785,151.20732,AS7575,Australian Academic and Research Network (AARNet)
+8,62.40.98.60,304.3896666666667,London,England,GB,51.50853,-0.12574,AS20965,GEANT Vereniging
+9,62.40.98.65,305.20799999999997,London,England,GB,51.50853,-0.12574,AS20965,GEANT Vereniging
+10,62.40.98.107,311.6003333333333,London,England,GB,51.50853,-0.12574,AS20965,GEANT Vereniging
+11,62.40.98.238,319.503,Eindhoven,North Brabant,NL,51.44083,5.47778,AS20965,GEANT Vereniging
+12,62.40.98.182,327.71299999999997,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS20965,GEANT Vereniging
+13,62.40.98.20,334.37033333333335,Amsterdam,North Holland,NL,52.37403,4.88969,AS20965,GEANT Vereniging
+14,62.40.98.67,340.80400000000003,Amsterdam,North Holland,NL,52.37403,4.88969,AS20965,GEANT Vereniging
+15,62.40.125.171,340.802,Amsterdam,North Holland,NL,52.37403,4.88969,AS20965,GEANT Vereniging
+17,188.1.243.30,351.1656666666667,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+18,141.76.0.29,350.839,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+19,141.30.1.28,351.163,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+20,141.30.1.61,348.55949999999996,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+21,141.76.14.10,350.893,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

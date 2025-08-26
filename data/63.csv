@@ -1,0 +1,13 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+6,78.157.16.209,7.845666666666666,Skopje,Grad Skopje,MK,41.99646,21.43141,AS43612,Company for communications services A1 Makedonija DOOEL Skopje
+7,195.3.114.153,25.637666666666664,Vienna,Vienna,AT,48.20849,16.37208,AS8447,A1 Telekom Austria AG
+8,195.3.64.206,25.601333333333333,Vienna,Vienna,AT,48.20849,16.37208,AS8447,A1 Telekom Austria AG
+9,195.3.64.3,35.903,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS8447,A1 Telekom Austria AG
+10,80.81.192.222,36.07933333333333,Frankfurt am Main,Hesse,DE,50.11552,8.68417,,
+11,188.1.145.198,41.138,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+12,188.1.144.74,45.6,Lippstadt,North Rhine-Westphalia,DE,51.67369,8.34482,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+13,188.1.243.30,49.69833333333333,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+14,141.76.0.29,48.40033333333334,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+15,141.30.1.20,48.08833333333333,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+16,141.30.1.55,49.68033333333333,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+17,141.76.14.10,47.891333333333336,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

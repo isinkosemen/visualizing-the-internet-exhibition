@@ -1,0 +1,16 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+1,45.68.6.1,0.22733333333333336,Guatemala City,Guatemala,GT,14.64072,-90.51327,AS271885,ASOCIACIÓN DE RED AVANZADA GUATEMALTECA PARA LA INVESTIGACIÓN Y LA EDUCACIÓN (IXP GT)
+3,45.173.216.45,0.6526666666666666,Mixco,Guatemala,GT,14.63077,-90.60711,AS267828,Señal Nacional S.A.
+5,154.54.47.85,24.91033333333333,Miami,Florida,US,25.77427,-80.19366,AS174,Cogent Communications
+6,154.54.167.185,23.767,Miami,Florida,US,25.77427,-80.19366,AS174,Cogent Communications
+7,213.248.75.1,23.835,Miami,Florida,US,25.77427,-80.19366,AS1299,Arelion Sweden AB
+8,62.115.120.176,49.683,Ashburn,Virginia,US,39.04372,-77.48749,AS1299,Arelion Sweden AB
+9,62.115.140.106,131.34,Paris,Île-de-France,FR,48.85341,2.3488,AS1299,Arelion Sweden AB
+10,62.115.122.139,138.79999999999998,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS1299,Arelion Sweden AB
+11,62.115.127.90,145.364,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+12,62.115.132.109,145.36766666666668,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+15,188.1.243.30,155.67166666666665,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+16,141.76.0.29,156.42166666666665,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+17,141.30.1.28,156.61633333333333,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+18,141.30.1.61,153.24633333333333,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+19,141.76.14.10,243.006,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

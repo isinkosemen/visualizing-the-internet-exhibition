@@ -1,0 +1,12 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+2,87.210.56.1,8.148333333333333,Amsterdam,North Holland,NL,52.37403,4.88969,AS50266,Odido Netherlands B.V.
+5,62.115.120.226,11.069,Utrecht,Utrecht,NL,52.09083,5.12222,AS1299,Arelion Sweden AB
+6,80.239.193.252,7.8053333333333335,Amsterdam,North Holland,NL,52.37403,4.88969,AS1299,Arelion Sweden AB
+7,62.115.120.226,10.996666666666668,Utrecht,Utrecht,NL,52.09083,5.12222,AS1299,Arelion Sweden AB
+8,80.91.252.43,72.33433333333333,Malmö,Skåne,SE,55.60587,13.00073,AS1299,Arelion Sweden AB
+9,62.115.120.71,66.25766666666667,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+12,188.1.243.30,50.375,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+13,141.76.0.31,44.041333333333334,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+14,141.30.1.22,52.119,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+15,141.30.1.55,68.72866666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+16,141.76.14.10,78.22333333333333,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

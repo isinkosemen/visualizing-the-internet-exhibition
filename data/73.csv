@@ -1,0 +1,16 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+2,103.71.10.253,2.0593333333333335,Melati,Yogyakarta,ID,-7.73333,110.36667,AS55662,CV. CITRAWEB NUSA INFOMEDIA
+3,202.152.131.10,1.3823333333333334,Melati,Yogyakarta,ID,-7.73333,110.36667,AS23951,PT JEMBATAN CITRA NUSANTARA
+4,111.95.246.73,22.904666666666667,Batam,Riau,ID,1.14937,104.02491,AS7632,Linknet-Exchange ASN
+5,213.248.78.189,22.926000000000002,Singapore,,SG,1.28967,103.85007,AS1299,Arelion Sweden AB
+6,62.115.136.198,25.317,Singapore,,SG,1.28967,103.85007,AS1299,Arelion Sweden AB
+7,62.115.140.42,176.81233333333333,Marseille,Provence-Alpes-Côte d'Azur,FR,43.29695,5.38107,AS1299,Arelion Sweden AB
+8,62.115.136.250,173.208,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS1299,Arelion Sweden AB
+9,62.115.127.90,181.462,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+10,62.115.132.109,181.629,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+12,188.1.144.225,186.18933333333334,Lippstadt,North Rhine-Westphalia,DE,51.67369,8.34482,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+13,188.1.243.30,189.569,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+14,141.76.0.31,189.144,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+15,141.30.1.22,189.63033333333337,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+16,141.30.1.55,189.48233333333334,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+17,141.76.14.10,189.207,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

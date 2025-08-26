@@ -1,0 +1,9 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+3,217.69.180.72,1.2169999999999999,Kuwait City,Al Asimah,KW,29.367,47.97429,AS29357,NATIONAL MOBILE TELECOMMUNICATIONS COMPANY K.S.C.P.
+4,195.229.27.117,98.06433333333332,Dubai,Dubai,AE,25.07725,55.30927,AS8966,EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC
+5,5.195.70.166,90.96233333333333,Al Fujairah City,Fujairah,AE,25.11641,56.34141,AS8966,EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC
+9,188.1.243.34,121.911,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+10,141.76.0.21,120.41533333333332,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+11,141.30.1.20,125.315,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+12,141.30.1.53,129.38866666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+13,141.76.14.10,120.649,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

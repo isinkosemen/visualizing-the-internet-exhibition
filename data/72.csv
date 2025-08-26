@@ -1,0 +1,8 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+1,203.10.91.97,0.9446666666666667,Wollongong,New South Wales,AU,-34.424,150.89345,AS58698,1 northfields av
+2,203.10.91.18,0.9013333333333332,Wollongong,New South Wales,AU,-34.424,150.89345,AS58698,1 northfields av
+3,138.44.5.110,2.0473333333333334,Sydney,New South Wales,AU,-33.86785,151.20732,AS7575,Australian Academic and Research Network (AARNet)
+4,113.197.15.13,3.051666666666667,Sydney,New South Wales,AU,-33.86785,151.20732,AS7575,Australian Academic and Research Network (AARNet)
+5,113.197.15.233,93.93266666666666,Singapore,,SG,1.28967,103.85007,AS7575,Australian Academic and Research Network (AARNet)
+6,138.44.226.7,261.87333333333333,Sydney,New South Wales,AU,-33.86785,151.20732,AS7575,Australian Academic and Research Network (AARNet)
+255,141.76.14.10,311.62100000000004,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

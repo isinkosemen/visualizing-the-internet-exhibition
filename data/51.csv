@@ -1,0 +1,13 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+4,192.248.41.254,1.4853333333333334,Kandy,Central Province,LK,7.2906,80.6336,AS38229,"Lanka Education & Research Network, NREN"
+5,192.248.1.125,5.71,Colombo,Western Province,LK,6.93548,79.84868,AS38229,"Lanka Education & Research Network, NREN"
+6,192.248.1.126,5.401666666666666,Kandy,Central Province,LK,7.2906,80.6336,AS38229,"Lanka Education & Research Network, NREN"
+7,180.149.48.34,21.93766666666667,Delhi,Delhi,IN,28.65195,77.23149,AS55824,NKN Core Network
+10,180.149.48.29,196.552,Delhi,Delhi,IN,28.65195,77.23149,AS55824,NKN Core Network
+11,62.40.125.214,196.961,Rotterdam,South Holland,NL,51.9225,4.47917,AS20965,GEANT Vereniging
+16,62.40.125.171,193.48499999999999,Amsterdam,North Holland,NL,52.37403,4.88969,AS20965,GEANT Vereniging
+18,188.1.243.30,210.0856666666667,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+19,141.76.0.29,209.14966666666666,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+20,141.30.1.20,209.4,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+21,141.30.1.53,212.24,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+22,141.76.14.10,209.14933333333332,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

@@ -1,0 +1,17 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+2,72.31.129.177,7.467,Dunedin,Florida,US,28.0199,-82.77323,AS33363,"Charter Communications, Inc"
+3,72.31.208.231,8.107333333333333,Dunedin,Florida,US,28.0199,-82.77323,AS33363,"Charter Communications, Inc"
+4,71.44.2.34,8.085333333333333,Palm Harbor,Florida,US,28.0848,-82.7253,AS33363,"Charter Communications, Inc"
+5,72.31.7.130,11.776333333333334,Palm Harbor,Florida,US,28.0848,-82.7253,AS33363,"Charter Communications, Inc"
+6,71.44.1.211,13.086333333333334,Orlando,Florida,US,28.6214,-81.4294,AS33363,"Charter Communications, Inc"
+7,66.109.6.98,13.729666666666667,Orlando,Florida,US,28.6214,-81.4294,AS7843,Charter Communications Inc
+8,4.68.111.185,13.518,Orlando,Florida,US,28.53834,-81.37924,AS3356,"Level 3 Parent, LLC"
+9,171.75.10.131,122.74333333333334,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS3356,"Level 3 Parent, LLC"
+10,62.67.67.154,117.615,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS3356,"Level 3 Parent, LLC"
+11,188.1.145.133,125.51,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+12,188.1.145.118,124.992,Erlangen,Bavaria,DE,49.59099,11.00783,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+13,188.1.243.34,129.63633333333334,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+14,141.76.0.21,129.879,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+15,141.30.1.28,129.829,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+16,141.30.1.61,130.061,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+17,141.76.14.10,129.51933333333332,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

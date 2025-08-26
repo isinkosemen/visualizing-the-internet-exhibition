@@ -1,0 +1,13 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+1,77.95.1.241,0.38366666666666666,Dushanbe,Dushanbe,TJ,38.53575,68.77905,AS43030,Tajik Academician Research and Educational Network Association
+2,77.95.0.5,0.44966666666666666,Dushanbe,Dushanbe,TJ,38.53575,68.77905,AS43030,Tajik Academician Research and Educational Network Association
+3,185.105.228.38,0.8969999999999999,Dushanbe,Dushanbe,TJ,38.53575,68.77905,AS43197,PJSC TT mobile
+4,195.68.177.248,65.24933333333333,Moscow,Moscow,RU,55.75222,37.61556,AS3216,"PJSC ""Vimpelcom"""
+5,79.104.225.34,103.218,Moscow,Moscow,RU,55.7522,37.6156,,
+6,80.81.193.222,109.985,Frankfurt am Main,Hesse,DE,50.1137,8.7119,,
+7,188.1.145.118,109.884,Erlangen,Bavaria,DE,49.59099,11.00783,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+8,188.1.243.34,113.12433333333333,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+9,141.76.0.23,112.91433333333333,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+10,141.30.1.30,114.13766666666668,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+11,141.30.1.63,112.87166666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+12,141.76.14.10,112.58300000000001,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

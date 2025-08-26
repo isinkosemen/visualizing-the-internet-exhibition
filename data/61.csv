@@ -1,0 +1,11 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+4,63.130.172.45,13.380500000000001,Bedford,England,GB,52.13459,-0.46632,AS1273,Vodafone Group PLC
+5,4.68.111.201,13.46,London,England,GB,51.50853,-0.12574,AS3356,"Level 3 Parent, LLC"
+6,171.75.8.101,30.582333333333334,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS3356,"Level 3 Parent, LLC"
+7,62.67.67.154,26.536,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS3356,"Level 3 Parent, LLC"
+8,188.1.145.198,33.154,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+10,188.1.243.30,40.745000000000005,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+11,141.76.0.29,39.77666666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+12,141.30.1.20,39.278999999999996,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+13,141.30.1.53,39.949000000000005,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+14,141.76.14.10,38.83766666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

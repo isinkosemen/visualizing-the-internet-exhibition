@@ -1,0 +1,18 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+1,104.234.31.2,0.16433333333333333,Elk Grove Village,Illinois,US,42.00392,-87.97035,AS396163,"My Digital Shield, Inc."
+2,216.200.245.185,0.4996666666666667,Elk Grove Village,Illinois,US,42.00392,-87.97035,AS6461,Zayo Bandwidth
+5,64.125.29.25,93.9155,Seattle,Washington,US,47.60621,-122.33207,AS6461,Zayo Bandwidth
+7,64.125.29.186,94.20066666666666,Kokomo,Indiana,US,40.48643,-86.1336,AS6461,Zayo Bandwidth
+8,64.125.29.127,93.9515,Denver,Colorado,US,39.7491,-104.9946,AS6461,Zayo Bandwidth
+9,64.125.24.141,94.01033333333334,Denver,Colorado,US,39.7491,-104.9946,AS6461,Zayo Bandwidth
+10,64.125.29.16,94.755,Amsterdam,North Holland,NL,52.37403,4.88969,AS6461,Zayo Bandwidth
+11,64.125.28.36,94.094,Amsterdam,North Holland,NL,52.37403,4.88969,AS6461,Zayo Bandwidth
+12,64.125.29.58,94.13,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS6461,Zayo Bandwidth
+13,64.125.29.57,100.15899999999999,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS6461,Zayo Bandwidth
+14,80.81.193.222,97.957,Frankfurt am Main,Hesse,DE,50.1137,8.7119,,
+15,188.1.145.118,102.43299999999999,Erlangen,Bavaria,DE,49.59099,11.00783,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+16,188.1.243.34,105.62266666666666,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+17,141.76.0.21,105.31366666666666,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+18,141.30.1.20,106.33,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+19,141.30.1.53,106.30566666666668,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+20,141.76.14.10,106.384,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

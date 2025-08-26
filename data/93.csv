@@ -1,0 +1,5 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+1,85.93.31.1,0.158,Vienna,Vienna,AT,48.20849,16.37208,AS212057,Pascal Stattmann trading as Nodescrape
+3,91.227.33.1,0.17033333333333334,Langenzersdorf,Lower Austria,AT,48.30432,16.36143,AS215120,Evolus IT Solutions GmbH
+4,103.246.249.72,0.22433333333333336,Vienna,Vienna,AT,48.20849,16.37208,AS6204,INTERKVM HOST SRL
+5,141.76.14.10,25.468666666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

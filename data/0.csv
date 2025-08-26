@@ -1,0 +1,12 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+1,190.124.192.129,0.43333333333333335,Bahía Blanca,Buenos Aires,AR,-38.7176,-62.26545,AS28109,FUNDACION DEL SUR PARA EL DESARROLLO TECNOLOGICO (FUNDASUR)
+2,190.124.210.6,0.4303333333333333,Bahía Blanca,Buenos Aires,AR,-38.7176,-62.26545,AS28109,FUNDACION DEL SUR PARA EL DESARROLLO TECNOLOGICO (FUNDASUR)
+4,8.243.19.6,7.9526666666666666,Buenos Aires,Buenos Aires F.D.,AR,-34.61315,-58.37723,AS3356,"Level 3 Parent, LLC"
+5,8.243.19.5,25.769000000000002,Buenos Aires,Buenos Aires F.D.,AR,-34.61315,-58.37723,AS3356,"Level 3 Parent, LLC"
+6,171.75.8.101,221.53166666666667,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS3356,"Level 3 Parent, LLC"
+7,62.67.67.154,219.785,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS3356,"Level 3 Parent, LLC"
+10,188.1.243.30,259.962,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+11,141.76.0.31,252.09433333333334,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+12,141.30.1.30,256.93,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+13,141.30.1.63,254.38366666666664,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+14,141.76.14.10,252.067,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

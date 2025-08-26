@@ -1,0 +1,14 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+6,102.129.92.1,3.8206666666666664,Pointe-Noire,Pointe-Noire,CG,-4.77609,11.86352,AS37451,CONGO TELECOM
+7,102.130.64.81,19.694,Luanda,Luanda,AO,-8.83682,13.23432,AS37468,Angola Cables
+8,102.130.70.38,18.647333333333332,Luanda,Luanda,AO,-8.83682,13.23432,AS37468,Angola Cables
+9,102.130.70.212,18.281000000000002,Luanda,Luanda,AO,-8.83682,13.23432,AS37468,Angola Cables
+11,213.248.100.20,143.23149999999998,London,England,GB,51.50853,-0.12574,AS1299,Arelion Sweden AB
+12,62.115.127.100,144.50966666666667,London,England,GB,51.50853,-0.12574,AS1299,Arelion Sweden AB
+13,62.115.137.215,157.36066666666667,Amsterdam,North Holland,NL,52.37403,4.88969,AS1299,Arelion Sweden AB
+14,62.115.120.71,156.96266666666668,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+17,188.1.243.30,164.64233333333334,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+18,141.76.0.29,164.381,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+19,141.30.1.20,164.88733333333334,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+20,141.30.1.53,171.32866666666666,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+21,141.76.14.10,173.87800000000001,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

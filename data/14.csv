@@ -1,0 +1,13 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+2,185.164.180.177,0.385,London,England,GB,51.50853,-0.12574,AS51263,County Broadband Ltd
+3,216.66.81.137,1.244,London,England,GB,51.50853,-0.12574,AS6939,Hurricane Electric LLC
+4,184.105.65.1,1.4165,London,England,GB,51.50853,-0.12574,AS6939,Hurricane Electric LLC
+5,184.105.65.17,5.454999999999999,Amsterdam,North Holland,NL,52.37403,4.88969,AS6939,Hurricane Electric LLC
+6,184.104.197.185,7.373,Amsterdam,North Holland,NL,52.37403,4.88969,AS6939,Hurricane Electric LLC
+7,184.104.194.210,9.273666666666665,Düsseldorf,North Rhine-Westphalia,DE,51.22172,6.77616,AS6939,Hurricane Electric LLC
+8,194.146.118.60,8.565,Düsseldorf,North Rhine-Westphalia,DE,51.2545,6.7864,,
+11,188.1.243.30,24.103666666666665,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+12,141.76.0.31,23.721333333333334,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+13,141.30.1.30,24.177000000000003,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+14,141.30.1.63,23.250333333333334,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+15,141.76.14.10,23.121333333333336,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

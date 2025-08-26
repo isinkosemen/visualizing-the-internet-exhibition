@@ -1,0 +1,18 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+2,210.7.19.233,1.9276666666666669,Suva,Central,FJ,-18.13683,178.42531,AS4638,Telecom Fiji Limited
+3,202.137.178.62,3.545,Suva,Central,FJ,-18.13683,178.42531,,
+4,202.137.178.161,39.57066666666667,Suva,Central,FJ,-18.13683,178.42531,,
+5,210.57.56.21,40.09466666666666,Sydney,New South Wales,AU,-33.86785,151.20732,AS4637,Telstra Global
+6,202.84.222.197,41.421,Sydney,New South Wales,AU,-33.86785,151.20732,AS4637,Telstra Global
+7,202.84.222.197,177.70100000000002,Sydney,New South Wales,AU,-33.86785,151.20732,AS4637,Telstra Global
+8,202.84.141.225,177.52833333333334,Los Angeles,California,US,34.05223,-118.24368,AS4637,Telstra Global
+9,202.84.141.225,177.006,Los Angeles,California,US,34.05223,-118.24368,AS4637,Telstra Global
+10,202.84.253.86,176.143,Los Angeles,California,US,34.05223,-118.24368,AS4637,Telstra Global
+11,134.159.61.106,177.61166666666668,Los Angeles,California,US,34.05223,-118.24368,AS4637,Telstra Global
+12,171.75.10.131,314.17833333333334,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS3356,"Level 3 Parent, LLC"
+14,188.1.145.198,317.947,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+16,188.1.243.30,325.81533333333334,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+17,141.76.0.31,324.3063333333334,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+18,141.30.1.30,317.846,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+19,141.30.1.63,325.763,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+20,141.76.14.10,318.94233333333335,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

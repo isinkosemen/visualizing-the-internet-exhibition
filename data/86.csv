@@ -1,0 +1,20 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+5,206.224.69.22,108.35066666666667,Chicago,Illinois,US,41.85003,-87.65005,AS14593,Space Exploration Technologies Corporation
+6,206.224.69.4,108.23200000000001,Manila,Metro Manila,PH,14.6042,120.9822,AS14593,Space Exploration Technologies Corporation
+7,103.43.212.161,109.70333333333333,Manila,Metro Manila,PH,14.6042,120.9822,AS137074,Responsible Internet Sustainability Effort
+8,103.43.212.120,136.31533333333334,Singapore,,SG,1.28967,103.85007,AS137074,Responsible Internet Sustainability Effort
+9,206.148.22.141,139.1,Singapore,,SG,1.28967,103.85007,AS174,Cogent Communications
+10,206.148.24.215,141.54433333333336,Singapore,,SG,1.28967,103.85007,AS7578,Global Secure Layer
+11,206.148.26.4,270.935,Sydney,New South Wales,AU,-33.90233,151.19743,AS7578,Global Secure Layer
+12,206.148.26.68,281.5126666666667,Zagreb,Zagreb,HR,45.81444,15.97798,AS7578,Global Secure Layer
+13,206.148.26.156,280.17199999999997,Paris,Île-de-France,FR,48.85341,2.3488,AS7578,Global Secure Layer
+14,206.148.26.61,277.41266666666667,Paris,Île-de-France,FR,48.85341,2.3488,AS7578,Global Secure Layer
+15,82.98.232.158,281.71066666666667,Paris,Île-de-France,FR,48.85945,2.3457,AS6461,Zayo Bandwidth
+17,64.125.27.227,264.731,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS6461,Zayo Bandwidth
+18,64.125.30.255,273.471,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS6461,Zayo Bandwidth
+19,80.81.193.222,424.876,Frankfurt am Main,Hesse,DE,50.1137,8.7119,,
+20,188.1.145.118,266.59433333333334,Erlangen,Bavaria,DE,49.59099,11.00783,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+21,188.1.243.34,277.5176666666667,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+22,141.76.0.23,270.84666666666664,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+23,141.30.1.22,292.4046666666666,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+24,141.30.1.55,277.6286666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

@@ -1,0 +1,15 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+4,195.78.0.150,2.1816666666666666,Monaco,Municipality of Monaco,MC,43.73718,7.42145,AS6758,Monaco Telecom S.A.
+5,195.78.0.142,1.976,Monaco,Municipality of Monaco,MC,43.73718,7.42145,AS6758,Monaco Telecom S.A.
+6,195.78.0.97,6.230666666666667,Milan,Lombardy,IT,45.46427,9.18951,AS6758,Monaco Telecom S.A.
+7,62.115.144.252,6.9195,Milan,Lombardy,IT,45.46427,9.18951,AS1299,Arelion Sweden AB
+8,62.115.116.172,27.009666666666664,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS1299,Arelion Sweden AB
+9,62.115.127.90,34.04266666666667,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+10,62.115.132.109,34.074999999999996,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+11,213.248.100.167,35.188,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+12,188.1.144.225,42.49866666666667,Lippstadt,North Rhine-Westphalia,DE,51.67369,8.34482,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+13,188.1.243.30,41.562666666666665,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+14,141.76.0.31,42.14,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+15,141.30.1.30,42.95133333333333,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+16,141.30.1.63,45.26500000000001,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+17,141.76.14.10,41.31066666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

@@ -1,0 +1,17 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+2,124.109.8.2,1.7983333333333331,Kolonia,Pohnpei State,FM,6.964,158.2062,AS139759,FSM Telecommunications Corporation
+3,119.252.112.166,21.505,Colonia,Yap State,FM,9.51638,138.12167,AS139759,FSM Telecommunications Corporation
+4,202.151.92.17,21.362666666666666,Tamuning-Tumon-Harmon Village,Tamuning,GU,13.48773,144.78138,AS9246,"Teleguam Holdings, LLC"
+5,114.142.196.166,130.683,Tokyo,Tokyo,JP,35.6895,139.69171,AS9246,"Teleguam Holdings, LLC"
+6,114.142.196.156,130.506,Los Angeles,California,US,34.05223,-118.24368,AS9246,"Teleguam Holdings, LLC"
+7,114.142.196.163,130.51766666666666,Los Angeles,California,US,34.05223,-118.24368,AS9246,"Teleguam Holdings, LLC"
+8,4.71.33.13,131.06766666666667,Los Angeles,California,US,34.05223,-118.24368,AS3356,"Level 3 Parent, LLC"
+9,171.75.10.131,274.42533333333336,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS3356,"Level 3 Parent, LLC"
+10,62.67.67.154,268.9073333333333,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS3356,"Level 3 Parent, LLC"
+11,188.1.145.133,273.948,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+12,188.1.145.118,280.659,Erlangen,Bavaria,DE,49.59099,11.00783,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+13,188.1.243.34,281.99033333333335,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+14,141.76.0.21,280.03433333333334,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+15,141.30.1.28,280.46166666666664,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+16,141.30.1.61,280.6786666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+17,141.76.14.10,280.401,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

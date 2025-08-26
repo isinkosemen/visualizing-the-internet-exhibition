@@ -1,0 +1,12 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+5,154.54.61.197,14.869666666666667,Valencia,Valencia,ES,39.47391,-0.37966,AS174,Cogent Communications
+6,154.54.57.229,14.609,Madrid,Madrid,ES,40.4165,-3.70256,AS174,Cogent Communications
+7,130.117.14.46,13.798333333333332,Madrid,Madrid,ES,40.4165,-3.70256,AS174,Cogent Communications
+8,171.75.10.131,34.25366666666667,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS3356,"Level 3 Parent, LLC"
+9,62.67.67.154,34.172,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS3356,"Level 3 Parent, LLC"
+11,188.1.145.118,46.233999999999995,Erlangen,Bavaria,DE,49.59099,11.00783,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+12,188.1.243.34,49.46733333333333,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+13,141.76.0.23,49.061,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+14,141.30.1.30,49.538999999999994,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+15,141.30.1.63,46.648,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+16,141.76.14.10,49.266,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

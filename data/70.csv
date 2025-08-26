@@ -1,0 +1,14 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+2,103.232.152.145,1.5766666666666669,Kathmandu,Bagmati Province,NP,27.70169,85.3206,AS4007,"Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal"
+3,116.66.193.13,1.227,Kathmandu,Bagmati Province,NP,27.70169,85.3206,AS4007,"Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal"
+4,61.95.165.141,2.8349999999999995,Kathmandu,Bagmati Province,NP,27.70169,85.3206,AS9498,BHARTI Airtel Ltd.
+5,116.119.57.80,141.15066666666667,Marseille,Provence-Alpes-Côte d'Azur,FR,43.29695,5.38107,AS9498,BHARTI Airtel Ltd.
+6,62.115.42.118,192.50533333333337,Marseille,Provence-Alpes-Côte d'Azur,FR,43.29695,5.38107,AS1299,Arelion Sweden AB
+7,62.115.124.58,185.88233333333332,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS1299,Arelion Sweden AB
+8,62.115.123.77,197.02233333333334,Trelleborg,Skåne,SE,55.37514,13.15691,AS1299,Arelion Sweden AB
+9,62.115.120.71,195.39033333333336,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+12,188.1.243.30,279.19266666666664,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+13,141.76.0.31,279.11766666666665,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+14,141.30.1.22,319.85033333333337,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+15,141.30.1.55,278.75933333333336,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+16,141.76.14.10,304.1503333333333,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

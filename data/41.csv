@@ -1,0 +1,18 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+2,68.171.176.1,2.029666666666667,Wamego,Kansas,US,39.20194,-96.305,AS19504,"WTC Communications, Inc."
+3,216.147.230.21,2.0476666666666667,Wichita,Kansas,US,37.7488,-97.3566,AS19504,"WTC Communications, Inc."
+4,12.89.207.97,15.652666666666667,Leawood,Kansas,US,38.96667,-94.6169,AS7018,"AT&T Enterprises, LLC"
+5,32.130.91.138,17.157999999999998,Manhattan,Kansas,US,39.18361,-96.57167,AS7018,"AT&T Enterprises, LLC"
+9,192.205.37.10,17.145,Plano,Texas,US,33.01984,-96.69889,AS7018,"AT&T Enterprises, LLC"
+10,62.115.136.118,17.908,Dallas,Texas,US,32.78306,-96.80667,AS1299,Arelion Sweden AB
+11,62.115.137.44,35.966,Nashville,Tennessee,US,36.16589,-86.78444,AS1299,Arelion Sweden AB
+12,62.115.137.54,35.18833333333333,Atlanta,Georgia,US,33.749,-84.38798,AS1299,Arelion Sweden AB
+15,62.115.123.12,127.26833333333332,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS1299,Arelion Sweden AB
+16,62.115.123.77,127.52666666666666,Trelleborg,Skåne,SE,55.37514,13.15691,AS1299,Arelion Sweden AB
+17,62.115.120.71,127.91199999999999,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+19,188.1.144.225,135.89033333333333,Lippstadt,North Rhine-Westphalia,DE,51.67369,8.34482,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+20,188.1.243.30,137.634,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+21,141.76.0.29,138.975,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+22,141.30.1.28,139.17566666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+23,141.30.1.61,137.73066666666668,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+24,141.76.14.10,135.23466666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

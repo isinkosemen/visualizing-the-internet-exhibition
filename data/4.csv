@@ -1,0 +1,16 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+3,74.222.93.3,1.053,George Town,George Town,KY,19.2866,-81.37436,AS36549,WestTel Ltd.
+4,216.144.80.242,2.417333333333333,George Town,George Town,KY,19.2866,-81.37436,AS36549,WestTel Ltd.
+5,198.207.23.43,27.436666666666667,Miami,Florida,US,25.77427,-80.19366,AS3855,Logic Communications Ltd
+6,198.207.23.43,26.929333333333336,Miami,Florida,US,25.77427,-80.19366,AS3855,Logic Communications Ltd
+8,213.248.75.1,26.989,Miami,Florida,US,25.77427,-80.19366,AS1299,Arelion Sweden AB
+9,62.115.120.176,54.958,Ashburn,Virginia,US,39.04372,-77.48749,AS1299,Arelion Sweden AB
+11,62.115.122.139,48.217999999999996,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS1299,Arelion Sweden AB
+12,62.115.127.90,148.0675,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+13,62.115.132.109,148.167,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+15,188.1.144.225,152.82850000000002,Lippstadt,North Rhine-Westphalia,DE,51.67369,8.34482,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+16,188.1.243.30,162.03366666666668,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+17,141.76.0.29,155.65666666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+18,141.30.1.20,159.08066666666664,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+19,141.30.1.55,163.564,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+20,141.76.14.10,158.61366666666666,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

@@ -1,0 +1,12 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+2,122.53.32.1,5.458000000000001,Manila,Metro Manila,PH,14.6042,120.9822,AS9299,Philippine Long Distance Telephone Company
+3,122.2.203.14,5.154,Manila,Metro Manila,PH,14.6042,120.9822,AS9299,Philippine Long Distance Telephone Company
+4,210.213.131.109,5.497666666666667,Manila,Metro Manila,PH,14.6042,120.9822,AS9299,Philippine Long Distance Telephone Company
+5,210.213.131.114,51.123333333333335,Singapore,,SG,1.28967,103.85007,AS9299,Philippine Long Distance Telephone Company
+10,80.81.192.222,215.914,Frankfurt am Main,Hesse,DE,50.11552,8.68417,,
+11,188.1.145.133,228.705,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+13,188.1.243.34,250.22033333333334,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+14,141.76.0.23,234.76566666666668,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+15,141.30.1.30,231.01549999999997,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+16,141.30.1.63,237.14333333333335,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+17,141.76.14.10,226.60000000000002,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

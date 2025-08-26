@@ -1,0 +1,10 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+6,87.245.244.6,2.204,Budapest,Budapest,HU,47.49835,19.04045,AS9002,RETN Limited
+7,87.245.233.164,15.865,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS9002,RETN Limited
+8,80.81.193.222,20.2775,Frankfurt am Main,Hesse,DE,50.1137,8.7119,,
+9,188.1.145.118,24.618666666666666,Erlangen,Bavaria,DE,49.59099,11.00783,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+10,188.1.243.34,28.523666666666667,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+11,141.76.0.21,27.922,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+12,141.30.1.20,28.427000000000003,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+13,141.30.1.53,26.66933333333333,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+14,141.76.14.10,26.637333333333334,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

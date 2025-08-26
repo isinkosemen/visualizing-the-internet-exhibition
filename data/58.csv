@@ -1,0 +1,15 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+2,151.7.206.36,3.974,Milan,Lombardy,IT,45.46427,9.18951,AS1267,WIND TRE S.P.A.
+3,151.7.51.168,7.064333333333333,Milan,Lombardy,IT,45.46427,9.18951,AS1267,WIND TRE S.P.A.
+4,151.6.1.168,6.659666666666666,Milan,Lombardy,IT,45.46427,9.18951,AS1267,WIND TRE S.P.A.
+5,151.6.1.182,7.595666666666666,Milan,Lombardy,IT,45.46427,9.18951,AS1267,WIND TRE S.P.A.
+6,62.115.36.84,7.273333333333333,Milan,Lombardy,IT,45.46427,9.18951,AS1299,Arelion Sweden AB
+7,62.115.116.170,15.634,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS1299,Arelion Sweden AB
+8,62.115.123.77,23.579666666666668,Trelleborg,Skåne,SE,55.37514,13.15691,AS1299,Arelion Sweden AB
+9,62.115.120.71,22.339,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+11,188.1.144.225,27.426333333333332,Lippstadt,North Rhine-Westphalia,DE,51.67369,8.34482,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+12,188.1.243.30,32.312666666666665,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+13,141.76.0.31,33.39,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+14,141.30.1.30,36.85066666666666,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+15,141.30.1.63,33.41266666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+16,141.76.14.10,35.556333333333335,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

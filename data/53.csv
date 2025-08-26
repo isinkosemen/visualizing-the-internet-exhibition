@@ -1,0 +1,8 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+2,96.120.5.177,11.041000000000002,Alpharetta,Georgia,US,34.07538,-84.29409,AS7922,"Comcast Cable Communications, LLC"
+3,96.110.114.117,11.927666666666667,Atlanta,Georgia,US,33.749,-84.38798,AS7922,"Comcast Cable Communications, LLC"
+4,162.151.126.217,13.736666666666666,Atlanta,Georgia,US,33.749,-84.38798,AS7922,"Comcast Cable Communications, LLC"
+5,24.124.169.61,11.563666666666668,Atlanta,Georgia,US,33.749,-84.38798,AS7922,"Comcast Cable Communications, LLC"
+6,24.124.169.50,13.654666666666666,Atlanta,Georgia,US,33.749,-84.38798,AS7922,"Comcast Cable Communications, LLC"
+8,171.75.10.131,111.74433333333333,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS3356,"Level 3 Parent, LLC"
+10,188.1.145.198,121.564,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

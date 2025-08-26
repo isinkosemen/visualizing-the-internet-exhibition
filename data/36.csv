@@ -1,0 +1,17 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+2,45.239.64.26,4.714666666666667,San José,San José,CR,9.9351,-84.1073,AS266853,"Comunicaciones Metropolitanas METROCOM, S.A."
+4,190.242.136.78,7.076666666666667,San José,San José,CR,9.93388,-84.08489,AS23520,"Columbus Networks USA, Inc."
+5,69.79.100.124,5.980333333333333,David,Chiriquí Province,PA,8.42729,-82.43085,AS23520,"Columbus Networks USA, Inc."
+6,69.79.100.168,38.74133333333333,Raton,New Mexico,US,36.90336,-104.43915,AS23520,"Columbus Networks USA, Inc."
+7,89.221.41.92,141.77433333333332,Miami,Florida,US,25.77427,-80.19366,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+9,62.115.120.176,76.11200000000001,Ashburn,Virginia,US,39.04372,-77.48749,AS1299,Arelion Sweden AB
+10,62.115.140.106,147.496,Paris,Île-de-France,FR,48.85341,2.3488,AS1299,Arelion Sweden AB
+11,62.115.122.139,155.35433333333333,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS1299,Arelion Sweden AB
+12,62.115.127.90,171.7,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+13,62.115.132.109,169.70033333333333,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+15,188.1.144.225,171.3285,Lippstadt,North Rhine-Westphalia,DE,51.67369,8.34482,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+16,188.1.243.30,171.256,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+17,141.76.0.31,180.26266666666666,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+18,141.30.1.30,226.88700000000003,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+19,141.30.1.63,182.1436666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+20,141.76.14.10,179.68533333333335,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

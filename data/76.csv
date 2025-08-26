@@ -1,0 +1,11 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+6,195.14.143.239,15.045666666666667,Nicosia,Nicosia,CY,35.17284,33.35397,AS6866,Cyprus Telecommunications Authority
+7,195.14.136.58,20.644666666666666,Nicosia,Nicosia,CY,35.17284,33.35397,AS6866,Cyprus Telecommunications Authority
+8,195.14.136.241,39.0,Nicosia,Nicosia,CY,35.17284,33.35397,AS6866,Cyprus Telecommunications Authority
+9,212.133.120.245,55.29633333333334,Marseille,Provence-Alpes-Côte d'Azur,FR,43.29695,5.38107,AS3356,"Level 3 Parent, LLC"
+10,171.75.10.131,76.37866666666666,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS3356,"Level 3 Parent, LLC"
+14,188.1.243.30,87.325,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+15,141.76.0.31,85.73066666666666,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+16,141.30.1.30,90.07566666666666,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+17,141.30.1.63,87.19233333333334,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+18,141.76.14.10,94.30133333333333,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

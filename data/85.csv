@@ -1,0 +1,13 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+3,212.125.18.129,26.3815,Istanbul,Istanbul,TR,41.01384,28.94966,,
+4,159.146.113.201,23.858333333333334,Istanbul,Istanbul,TR,41.01384,28.94966,,
+5,193.192.105.206,23.407333333333337,Istanbul,Istanbul,TR,41.01384,28.94966,AS12735,TurkNet Iletisim Hizmetleri A.S.
+6,93.186.132.164,55.17933333333334,Istanbul,Istanbul,TR,41.01384,28.94966,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+7,195.22.211.209,55.42766666666666,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+8,89.221.34.189,64.281,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+11,188.1.144.74,64.20433333333334,Lippstadt,North Rhine-Westphalia,DE,51.67369,8.34482,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+12,188.1.243.30,68.15333333333334,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+13,141.76.0.29,67.08866666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+14,141.30.1.28,66.851,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+15,141.30.1.61,67.06366666666666,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+16,141.76.14.10,66.83333333333333,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

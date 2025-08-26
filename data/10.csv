@@ -1,0 +1,13 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+4,206.224.67.228,27.215333333333334,Chicago,Illinois,US,41.85003,-87.65005,AS14593,Space Exploration Technologies Corporation
+5,206.224.67.204,33.687999999999995,Chicago,Illinois,US,41.85003,-87.65005,AS14593,Space Exploration Technologies Corporation
+6,62.115.153.216,27.137333333333334,Miami,Florida,US,25.77427,-80.19366,AS1299,Arelion Sweden AB
+7,62.115.119.230,59.661333333333324,Ashburn,Virginia,US,39.04372,-77.48749,AS1299,Arelion Sweden AB
+9,62.115.123.12,177.32933333333335,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS1299,Arelion Sweden AB
+10,62.115.123.77,163.07866666666666,Trelleborg,Skåne,SE,55.37514,13.15691,AS1299,Arelion Sweden AB
+11,62.115.120.71,173.94966666666664,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+14,188.1.243.30,189.7746666666667,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+15,141.76.0.31,179.07933333333335,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+16,141.30.1.30,183.19433333333333,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+17,141.30.1.63,181.69133333333335,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+18,141.76.14.10,197.84633333333332,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

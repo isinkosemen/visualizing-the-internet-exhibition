@@ -1,0 +1,16 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+3,102.67.96.37,75.47108791208791,Ouagadougou,Centre,BF,12.36566,-1.53388,AS37721,Virtual Technologies & Solutions
+4,102.67.97.54,85.43603378378378,Lisbon,Lisbon,PT,38.72509,-9.1498,AS37721,Virtual Technologies & Solutions
+5,102.67.97.54,85.23725,Lisbon,Lisbon,PT,38.72509,-9.1498,AS37721,Virtual Technologies & Solutions
+6,184.104.226.33,75.99764556962026,Lisbon,Lisbon,PT,38.72509,-9.1498,AS6939,Hurricane Electric LLC
+7,184.104.193.149,83.21440625,Madrid,Madrid,ES,40.4165,-3.70256,AS6939,Hurricane Electric LLC
+8,184.104.198.58,125.8488275862069,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS6939,Hurricane Electric LLC
+9,80.81.192.222,107.11775,Frankfurt am Main,Hesse,DE,50.11552,8.68417,,
+10,80.81.192.222,104.81253125,Frankfurt am Main,Hesse,DE,50.11552,8.68417,,
+11,188.1.145.118,130.2805737704918,Erlangen,Bavaria,DE,49.59099,11.00783,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+12,188.1.243.34,127.15433333333333,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+13,188.1.243.34,143.54876000000002,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+14,141.30.1.22,116.78846511627908,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+15,141.30.1.22,134.88886349206348,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+16,141.30.1.55,135.8289661016949,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+17,141.76.14.10,128.0630601092896,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

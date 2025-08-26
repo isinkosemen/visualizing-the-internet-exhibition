@@ -1,0 +1,18 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+2,108.203.8.1,2.4343333333333335,Burbank,California,US,34.1745,-118.3059,AS7018,"AT&T Enterprises, LLC"
+3,75.29.48.112,3.4783333333333335,Los Angeles,California,US,34.05223,-118.24368,AS7018,"AT&T Enterprises, LLC"
+6,62.115.45.150,7.718,Los Angeles,California,US,34.05223,-118.24368,AS1299,Arelion Sweden AB
+7,62.115.140.228,5.7379999999999995,Los Angeles,California,US,34.05223,-118.24368,AS1299,Arelion Sweden AB
+8,62.115.140.247,157.58266666666665,Dallas,Texas,US,32.78306,-96.80667,AS1299,Arelion Sweden AB
+9,62.115.116.213,157.435,Atlanta,Georgia,US,33.749,-84.38798,AS1299,Arelion Sweden AB
+10,62.115.143.236,157.04533333333333,Atlanta,Georgia,US,33.749,-84.38798,AS1299,Arelion Sweden AB
+12,62.115.140.106,149.067,Paris,Île-de-France,FR,48.85341,2.3488,AS1299,Arelion Sweden AB
+13,62.115.122.139,155.44766666666666,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS1299,Arelion Sweden AB
+14,62.115.127.90,157.492,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+15,62.115.132.109,163.42450000000002,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+17,188.1.144.225,164.694,Lippstadt,North Rhine-Westphalia,DE,51.67369,8.34482,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+18,188.1.243.30,170.51066666666668,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+19,141.76.0.29,167.21566666666666,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+20,141.30.1.28,169.61266666666666,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+21,141.30.1.61,173.48066666666668,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+22,141.76.14.10,220.10866666666666,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

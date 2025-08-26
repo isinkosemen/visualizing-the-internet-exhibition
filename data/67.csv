@@ -1,0 +1,18 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+1,130.244.38.237,1.4873333333333332,Vilnius,Vilnius,LT,54.68916,25.2798,AS1257,Tele2 Sverige AB
+2,130.244.79.232,5.667666666666666,Vilnius,Vilnius,LT,54.68916,25.2798,AS1257,Tele2 Sverige AB
+3,130.244.130.18,5.78,Vilnius,Vilnius,LT,54.68916,25.2798,AS1257,Tele2 Sverige AB
+4,130.244.130.14,5.865333333333333,Minsk,Minsk City,BY,53.9,27.56667,AS1257,Tele2 Sverige AB
+5,91.129.14.96,5.502333333333333,Vilnius,Vilnius,LT,54.68916,25.2798,AS1257,Tele2 Sverige AB
+6,91.129.14.215,6.9223333333333334,Riga,Riga,LV,56.946,24.10589,AS1257,Tele2 Sverige AB
+7,130.244.200.135,383.17066666666665,Riga,Riga,LV,56.946,24.10589,AS1257,Tele2 Sverige AB
+8,62.115.139.200,18.354,Stockholm,Stockholm,SE,59.32938,18.06871,AS1299,Arelion Sweden AB
+9,62.115.134.94,33.15866666666667,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+10,62.115.120.71,33.1815,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+11,213.248.100.167,32.3505,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+12,188.1.144.225,40.28766666666667,Lippstadt,North Rhine-Westphalia,DE,51.67369,8.34482,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+13,188.1.243.30,47.121,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+14,141.76.0.29,46.01133333333333,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+15,141.30.1.28,47.14566666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+16,141.30.1.61,43.26833333333334,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+17,141.76.14.10,46.82266666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

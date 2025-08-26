@@ -1,0 +1,13 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+1,41.79.249.226,0.9396666666666667,Boksburg,Gauteng,ZA,-26.21197,28.25958,AS3491,"PCCW Global, Inc."
+2,63.218.12.46,173.03050000000002,London,England,GB,51.50853,-0.12574,AS3491,"PCCW Global, Inc."
+3,80.239.193.134,173.03666666666666,London,England,GB,51.50853,-0.12574,AS1299,Arelion Sweden AB
+4,62.115.122.188,173.79366666666667,London,England,GB,51.50853,-0.12574,AS1299,Arelion Sweden AB
+5,62.115.137.215,188.87033333333332,Amsterdam,North Holland,NL,52.37403,4.88969,AS1299,Arelion Sweden AB
+6,62.115.120.71,189.8373333333333,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+8,188.1.144.225,198.659,Lippstadt,North Rhine-Westphalia,DE,51.67369,8.34482,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+9,188.1.243.30,199.98433333333332,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+10,141.76.0.29,199.70866666666666,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+11,141.30.1.20,203.04266666666663,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+12,141.30.1.55,204.89166666666665,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+13,141.76.14.10,202.6916666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

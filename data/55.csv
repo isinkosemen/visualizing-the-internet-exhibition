@@ -1,0 +1,16 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+1,195.38.21.126,0.8073333333333332,Aubervilliers,Île-de-France,FR,48.91667,2.38333,AS49688,John Berry
+3,45.63.112.80,11.090000000000002,Aubervilliers,Île-de-France,FR,48.91667,2.38333,AS20473,"The Constant Company, LLC"
+4,45.63.112.65,16.831666666666667,Aubervilliers,Île-de-France,FR,48.91667,2.38333,AS20473,"The Constant Company, LLC"
+8,62.115.48.200,11.219333333333333,Paris,Île-de-France,FR,48.85341,2.3488,AS1299,Arelion Sweden AB
+9,62.115.136.78,13.869666666666667,Paris,Île-de-France,FR,48.85341,2.3488,AS1299,Arelion Sweden AB
+10,62.115.141.146,12.393666666666666,Paris,Île-de-France,FR,48.85341,2.3488,AS1299,Arelion Sweden AB
+11,62.115.123.12,20.411,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS1299,Arelion Sweden AB
+12,62.115.123.77,26.423333333333336,Trelleborg,Skåne,SE,55.37514,13.15691,AS1299,Arelion Sweden AB
+13,62.115.120.71,27.759666666666664,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+15,188.1.144.225,33.787,Lippstadt,North Rhine-Westphalia,DE,51.67369,8.34482,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+16,188.1.243.30,37.925000000000004,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+17,141.76.0.29,37.696999999999996,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+18,141.30.1.28,40.312,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+19,141.30.1.61,35.016,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+20,141.76.14.10,37.782333333333334,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

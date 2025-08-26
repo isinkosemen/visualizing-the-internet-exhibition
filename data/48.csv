@@ -1,0 +1,14 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+7,193.229.29.197,2.306,Helsinki,Uusimaa,FI,60.16952,24.93545,AS719,Elisa Oyj
+8,213.192.184.80,2.2806666666666664,Helsinki,Uusimaa,FI,60.16952,24.93545,AS6667,EUNET FINLAND
+9,213.192.191.165,7.211333333333333,Turku,Southwest Finland,FI,60.45148,22.26869,AS6667,EUNET FINLAND
+10,213.248.100.236,934.6170000000001,Stockholm,Stockholm,SE,59.32938,18.06871,AS1299,Arelion Sweden AB
+11,62.115.139.180,7.592666666666666,Stockholm,Stockholm,SE,59.32938,18.06871,AS1299,Arelion Sweden AB
+12,62.115.134.94,19.982666666666667,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+13,62.115.120.71,20.453666666666667,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+15,188.1.144.225,24.793999999999997,Lippstadt,North Rhine-Westphalia,DE,51.67369,8.34482,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+16,188.1.243.30,30.644000000000002,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+17,141.76.0.31,30.227999999999998,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+18,141.30.1.22,33.73266666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+19,141.30.1.55,30.736,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+20,141.76.14.10,33.30233333333333,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

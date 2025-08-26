@@ -1,0 +1,28 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+1,203.188.118.174,0.5963333333333333,Hong Kong,,HK,22.27832,114.17469,AS3662,Joint Universities Computer Centre Limited
+2,203.188.118.205,1.196,Hong Kong,,HK,22.27832,114.17469,AS3662,Joint Universities Computer Centre Limited
+3,103.43.32.1,1.2859999999999998,Delhi,Delhi,IN,28.65195,77.23149,AS132116,Ani Network Pvt Ltd
+4,103.43.31.137,162.79666666666665,Tung Chung,Islands,HK,22.28783,113.94243,AS137207,Joint Universities Computer Centre Limited
+5,163.253.2.54,232.08666666666667,Seattle,Washington,US,47.60621,-122.33207,AS11537,Internet2
+6,163.253.1.156,231.5293333333333,Salt Lake City,Utah,US,40.76078,-111.89105,AS11537,Internet2
+7,163.253.1.170,231.8503333333333,Denver,Colorado,US,39.73915,-104.9847,AS11537,Internet2
+8,163.253.1.243,232.032,Kansas City,Missouri,US,39.09973,-94.57857,AS11537,Internet2
+9,163.253.1.244,231.81733333333332,Chicago,Illinois,US,41.85003,-87.65005,AS11537,Internet2
+10,163.253.2.75,231.07466666666664,Chicago,Illinois,US,41.85003,-87.65005,AS11537,Internet2
+11,163.253.2.16,230.83100000000002,Cleveland,Ohio,US,41.4995,-81.69541,AS11537,Internet2
+12,163.253.1.138,231.62033333333332,Ashburn,Virginia,US,39.04372,-77.48749,AS11537,Internet2
+13,163.253.1.106,232.35933333333332,Ashburn,Virginia,US,39.04372,-77.48749,AS11537,Internet2
+14,163.253.1.117,232.17600000000002,New York City,New York,US,40.71427,-74.00597,AS11537,Internet2
+15,198.71.45.237,297.77833333333336,Ashburn,Virginia,US,39.04372,-77.48749,AS11537,Internet2
+16,62.40.98.75,297.76666666666665,Paris,Île-de-France,FR,48.85341,2.3488,AS20965,GEANT Vereniging
+17,62.40.98.238,305.61533333333335,Eindhoven,North Brabant,NL,51.44083,5.47778,AS20965,GEANT Vereniging
+18,62.40.98.182,313.8773333333333,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS20965,GEANT Vereniging
+19,62.40.98.20,320.5106666666666,Amsterdam,North Holland,NL,52.37403,4.88969,AS20965,GEANT Vereniging
+20,62.40.98.67,326.89866666666666,Amsterdam,North Holland,NL,52.37403,4.88969,AS20965,GEANT Vereniging
+21,62.40.125.171,327.0756666666667,Amsterdam,North Holland,NL,52.37403,4.88969,AS20965,GEANT Vereniging
+22,188.1.144.225,334.1985,Lippstadt,North Rhine-Westphalia,DE,51.67369,8.34482,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+23,188.1.243.30,340.09666666666664,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+24,141.76.0.29,339.72700000000003,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+25,141.30.1.20,340.812,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+26,141.30.1.55,337.37266666666665,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+27,141.76.14.10,339.945,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

@@ -1,0 +1,16 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+2,93.121.163.195,2.827,Baie-Mahault,Guadeloupe,GP,16.26738,-61.58543,AS21351,Canal + Telecom SAS
+3,93.121.162.70,37.31433333333333,Baie-Mahault,Guadeloupe,GP,16.26738,-61.58543,AS21351,Canal + Telecom SAS
+6,95.138.122.62,37.840666666666664,Baie-Mahault,Guadeloupe,GP,16.26738,-61.58543,AS21351,Canal + Telecom SAS
+7,104.250.31.133,38.96933333333333,Miami,Florida,US,25.77427,-80.19366,AS21351,Canal + Telecom SAS
+8,62.115.176.4,37.196,Miami,Florida,US,25.77427,-80.19366,AS1299,Arelion Sweden AB
+9,62.115.119.230,56.791666666666664,Ashburn,Virginia,US,39.04372,-77.48749,AS1299,Arelion Sweden AB
+10,62.115.140.104,140.68133333333333,Paris,Île-de-France,FR,48.85341,2.3488,AS1299,Arelion Sweden AB
+11,62.115.123.12,144.024,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS1299,Arelion Sweden AB
+12,62.115.123.77,155.01566666666665,Trelleborg,Skåne,SE,55.37514,13.15691,AS1299,Arelion Sweden AB
+13,62.115.120.71,155.92100000000002,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+16,188.1.243.30,161.80466666666666,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+17,141.76.0.29,165.451,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+18,141.30.1.28,164.476,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+19,141.30.1.61,175.32366666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+20,141.76.14.10,167.59900000000002,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

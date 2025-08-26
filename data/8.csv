@@ -1,0 +1,19 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+6,52.93.9.59,8.751,Singapore,,SG,1.28967,103.85007,AS16509,"Amazon.com, Inc."
+8,154.54.89.205,8.436,Singapore,,SG,1.28967,103.85007,AS174,Cogent Communications
+9,154.54.27.54,169.69233333333332,Los Angeles,California,US,34.05223,-118.24368,AS174,Cogent Communications
+10,80.239.160.64,183.6925,Los Angeles,California,US,34.05223,-118.24368,AS1299,Arelion Sweden AB
+11,62.115.140.156,180.64433333333332,Los Angeles,California,US,34.05223,-118.24368,AS1299,Arelion Sweden AB
+12,62.115.140.247,252.18766666666667,Dallas,Texas,US,32.78306,-96.80667,AS1299,Arelion Sweden AB
+13,62.115.116.213,251.04033333333334,Atlanta,Georgia,US,33.749,-84.38798,AS1299,Arelion Sweden AB
+14,62.115.143.236,250.961,Atlanta,Georgia,US,33.749,-84.38798,AS1299,Arelion Sweden AB
+15,62.115.137.132,233.84766666666667,Ashburn,Virginia,US,39.04372,-77.48749,AS1299,Arelion Sweden AB
+16,62.115.140.106,237.06,Paris,Île-de-France,FR,48.85341,2.3488,AS1299,Arelion Sweden AB
+17,62.115.122.139,243.54566666666665,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS1299,Arelion Sweden AB
+18,62.115.127.90,251.65,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+19,62.115.132.109,251.29833333333332,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+22,188.1.243.30,259.692,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+23,141.76.0.29,261.04,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+24,141.30.1.28,264.81266666666664,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+25,141.30.1.61,262.0826666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+26,141.76.14.10,264.0593333333333,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

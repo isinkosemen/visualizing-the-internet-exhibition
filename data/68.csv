@@ -1,0 +1,13 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+2,108.5.235.1,2.3393333333333333,New York City,New York,US,40.71427,-74.00597,AS701,Verizon Business
+3,100.41.195.110,4.383333333333334,New York City,New York,US,40.71427,-74.00597,AS701,Verizon Business
+6,62.115.135.160,4.267,New York City,New York,US,40.71427,-74.00597,AS1299,Arelion Sweden AB
+7,62.115.139.245,74.114,London,England,GB,51.50853,-0.12574,AS1299,Arelion Sweden AB
+8,62.115.137.215,86.83966666666667,Amsterdam,North Holland,NL,52.37403,4.88969,AS1299,Arelion Sweden AB
+9,62.115.120.71,88.98166666666667,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+11,188.1.144.225,97.74666666666667,Lippstadt,North Rhine-Westphalia,DE,51.67369,8.34482,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+12,188.1.243.30,103.18766666666666,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+13,141.76.0.29,97.71466666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+14,141.30.1.28,102.79933333333334,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+15,141.30.1.61,94.57466666666666,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+16,141.76.14.10,97.50866666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

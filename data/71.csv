@@ -1,0 +1,18 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+6,27.109.64.21,2.8326666666666664,Manila,Metro Manila,PH,14.6042,120.9822,AS45754,Clear Path Networks Inc
+7,110.93.65.238,2.577,Quezon City,Metro Manila,PH,14.6488,121.0509,AS45754,Clear Path Networks Inc
+8,110.93.65.233,2.9963333333333337,Manila,Metro Manila,PH,14.6042,120.9822,AS45754,Clear Path Networks Inc
+9,1.37.100.169,4.030333333333334,Makati City,Metro Manila,PH,14.55027,121.03269,AS4775,Globe Telecoms
+10,120.28.0.13,6.372,Makati City,Metro Manila,PH,14.55027,121.03269,AS4775,Globe Telecoms
+13,62.115.142.86,45.568,Singapore,,SG,1.28967,103.85007,AS1299,Arelion Sweden AB
+14,62.115.112.218,216.6735,Marseille,Provence-Alpes-Côte d'Azur,FR,43.29695,5.38107,AS1299,Arelion Sweden AB
+15,62.115.124.60,218.31166666666664,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS1299,Arelion Sweden AB
+16,62.115.127.90,224.0245,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+17,62.115.132.109,235.673,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+18,213.248.100.167,212.989,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+19,188.1.144.225,272.81333333333333,Lippstadt,North Rhine-Westphalia,DE,51.67369,8.34482,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+20,188.1.243.30,298.41900000000004,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+21,141.76.0.29,277.5253333333333,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+22,141.30.1.28,271.6086666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+23,141.30.1.61,298.085,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+24,141.76.14.10,299.7616666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

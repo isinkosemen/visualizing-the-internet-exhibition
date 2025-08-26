@@ -1,0 +1,11 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+3,197.224.187.59,3.4760000000000004,Beau Bassin-Rose Hill,Plaines Wilhems,MU,-20.23325,57.46609,AS23889,Mauritius Telecom Ltd
+4,197.226.230.57,200.2733333333333,Marseille,Provence-Alpes-Côte d'Azur,FR,43.29695,5.38107,AS23889,Mauritius Telecom Ltd
+5,213.19.217.13,204.385,Marseille,Provence-Alpes-Côte d'Azur,FR,43.29695,5.38107,AS3356,"Level 3 Parent, LLC"
+6,171.75.10.131,215.18499999999997,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS3356,"Level 3 Parent, LLC"
+8,188.1.145.198,223.449,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+10,188.1.243.30,222.03533333333334,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+11,141.76.0.29,221.45433333333335,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+12,141.30.1.20,222.11666666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+13,141.30.1.55,225.48333333333335,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+14,141.76.14.10,219.95866666666666,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

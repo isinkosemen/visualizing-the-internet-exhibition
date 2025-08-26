@@ -1,0 +1,11 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+6,213.195.192.251,1.9823333333333333,Prague,Prague,CZ,50.08804,14.42076,AS15935,ha-vel internet s.r.o.
+7,87.245.246.100,15.076,Prague,Prague,CZ,50.08804,14.42076,AS9002,RETN Limited
+8,87.245.232.233,8.721,Frankfurt am Main,Hesse,DE,50.11552,8.68417,AS9002,RETN Limited
+9,80.81.193.222,12.103,Frankfurt am Main,Hesse,DE,50.1137,8.7119,,
+10,188.1.145.118,17.0285,Erlangen,Bavaria,DE,49.59099,11.00783,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+11,188.1.243.34,20.845333333333333,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+12,141.76.0.21,19.932,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+13,141.30.1.20,20.233999999999998,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+14,141.30.1.53,19.733,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+15,141.76.14.10,19.367,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

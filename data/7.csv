@@ -1,0 +1,15 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+1,193.68.68.185,1248.2389999999998,Riga,Riga,LV,56.946,24.10589,AS8285,Versija SIA
+2,193.68.68.185,12.347333333333333,Riga,Riga,LV,56.946,24.10589,AS8285,Versija SIA
+4,154.25.5.117,49.705333333333336,Riga,Riga,LV,56.946,24.10589,AS174,Cogent Communications
+5,154.54.73.190,64.2915,Stockholm,Stockholm,SE,59.32938,18.06871,AS174,Cogent Communications
+6,130.117.3.129,34.553,Stockholm,Stockholm,SE,59.32938,18.06871,AS174,Cogent Communications
+7,130.117.14.234,30.450666666666667,Stockholm,Stockholm,SE,59.35,17.9167,AS174,Cogent Communications
+8,62.115.139.180,63.669000000000004,Stockholm,Stockholm,SE,59.32938,18.06871,AS1299,Arelion Sweden AB
+9,62.115.134.94,84.29266666666666,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+10,62.115.120.71,57.41766666666666,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+13,188.1.243.30,44.92366666666667,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+14,141.76.0.31,45.10033333333333,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+15,141.30.1.30,89.46866666666666,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+16,141.30.1.63,92.03500000000001,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+17,141.76.14.10,82.01166666666667,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.

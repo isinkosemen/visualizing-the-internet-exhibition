@@ -1,0 +1,12 @@
+hop_n,ip,rtt,city,region,country,latitude,longitude,asn,as_name
+2,213.219.132.16,5.378,Brussels,Brussels Capital,BE,50.85045,4.34878,AS9031,EDPNET Belgium BV
+3,212.71.1.13,6.926666666666667,Brussels,Brussels Capital,BE,50.85045,4.34878,AS9031,EDPNET Belgium BV
+4,62.115.48.172,5.343666666666667,Brussels,Brussels Capital,BE,50.85045,4.34878,AS1299,Arelion Sweden AB
+5,62.115.116.230,8.683666666666667,Amsterdam,North Holland,NL,52.37403,4.88969,AS1299,Arelion Sweden AB
+6,62.115.127.88,15.483,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+7,62.115.132.109,15.792,Hamburg,Hamburg,DE,53.55073,9.99302,AS1299,Arelion Sweden AB
+10,188.1.243.30,49.773666666666664,Berlin,State of Berlin,DE,52.52437,13.41053,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+11,141.76.0.31,22.473,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+12,141.30.1.30,26.021,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+13,141.30.1.63,28.092,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+14,141.76.14.10,51.30733333333333,Dresden,Saxony,DE,51.05089,13.73832,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
